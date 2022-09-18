@@ -1,0 +1,1 @@
+# Excercises made for the DOM manipulation couse
